@@ -1,2 +1,4 @@
 # unity-learn
-In this rep I updt when I post new video about me on Unity!
+In this repository, I learn unity with my youtuber fans!
+
+I just learn it and update in case you need the files I use.
